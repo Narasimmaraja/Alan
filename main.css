@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(158, 174, 138);
+    color: white;
+}   
+table, th, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+  }
+  #summa{
+    background-color:black;height:50px;width:1000px;
+    color: white;
+  }
+  #pic{
+    border-radius: 50px;
+  }
